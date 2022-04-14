@@ -1,0 +1,6 @@
+Receive input
+Determine char codes of characters
+Bump up char codes by random number
+Reverse the numbers
+Turn the numbers back to letters and join
+Return the ciphered text

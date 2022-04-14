@@ -1,0 +1,7 @@
+Give an overview of what the breach was and the motivations behind it.
+
+Explain where the “tech flaws” were, and how hackers were able to breach their system.
+
+What has the company done to protect against that vulnerability since?
+
+The 2012 breach on LinkedIn involved the theft of over 6 million accounts. Russian cybercriminals sought to sell the information. Additional accounts were discovered to have been included in this attack 4 years after the initial discovery. The hack was able to happen by getting access to the database of usernames and passwords through the LinkedIn VPN. At that time, LinkedIn used SHA1. At the time of the attack, users were prompted to change their passwords as LinkedIn invalidated all those whose accounts were stolen. The company has since started utilizing salted password hash to better protect users. However, this enhanced protection doesn't apply to those that have not changed their passwords since 2012.
